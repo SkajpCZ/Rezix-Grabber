@@ -10,6 +10,7 @@ pip install pycryptodomex
 pip install psutil
 pip install gputil
 pip install py-cpuinfo
+pip install browser_cookie3
 
 
 echo Installed Requirements

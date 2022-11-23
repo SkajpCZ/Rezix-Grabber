@@ -1,0 +1,1 @@
+x=MsgBox("Grabber is ready!", vbOkOnly+vbInfo, "Rezix Grabber")
