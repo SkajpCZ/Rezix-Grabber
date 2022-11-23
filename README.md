@@ -29,7 +29,7 @@ options are..
 
 <br>
 
-# Intsallation
+# Installation
 1. First Install any Python (ADD PYTHON TO THE PATH) : https://www.python.org/downloads/
 
 2. Then, Rezix Grabber.exe (If you have only source run requirements.bat)
